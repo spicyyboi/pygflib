@@ -14,7 +14,7 @@ as well as offering complete and concise documentation.
 Dependencies
 ------------
 
-PyGFapi requires `requests` the request module
+PyGFapi requires `requests` the request module.
 To install it manually use:
     
     pip install requests
